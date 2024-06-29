@@ -1,6 +1,5 @@
 # See https://pre-commit.com for more information
 # See https://pre-commit.com/hooks.html for more hooks
-exclude: ^(BEV_E0X_OT_Car ADCC_CH Message list  V3.60 Draft _202308301702.dbc|BEV_E0X_OT_Car ADCC_DA Message list  V3.60 Draft _202308301702.dbc)
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.6.0

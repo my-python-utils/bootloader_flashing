@@ -2,3 +2,7 @@ demo.hex
 demo.s19
 
 *.pyc
+
+/build
+/dist
+/*.egg-info
